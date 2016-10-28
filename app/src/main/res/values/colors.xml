@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="status_bar">#BF360C</color>
+    <color name="app_main_color">#D84315</color>
+    <color name="app_second_color">#0896EF</color>
+
+    <color name="btn_dark_pressed">#F4511E</color>
+    <color name="btn_light_pressed">#FFCCBC</color>
+
+    <color name="list_item_focused">#20D84315</color>
+
+    <color name="text_light">#FFFFFF</color>
+    <color name="text_light_transp">#BBFFFFFF</color>
+
+    
+    <color name="positive_number">#4CAF50</color>
+	<color name="negative_number">#f44336</color>
+	<color name="zero_number">#1E88E5</color>
+
+    <color name="shadow_light_dark">#38000000</color>
+    <color name="shadow_light_middle">#17000000</color>
+    <color name="shadow_light_light">#00000000</color>
+
+    <color name="shadow_dark_dark">#50000000</color>
+    <color name="shadow_dark_middle">#25000000</color>
+    <color name="shadow_dark_light">#00000000</color>
+
+    <color name="transparent">#00000000</color>
+</resources>
+

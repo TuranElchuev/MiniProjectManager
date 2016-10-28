@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:background="@color/app_main_color">
+
+    <ImageButton
+        android:id="@+id/home"
+        android:layout_width="@dimen/button_size_l"
+        android:layout_height="@dimen/button_size_l"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_home"
+        android:padding="@dimen/icon_padding_xxl"
+        android:background="@drawable/selector_button_dark"/>
+
+    <EditText
+        android:id="@+id/et_search"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:maxLength="9"
+        android:textColor="@color/text_light"
+        android:textColorHint="@color/text_light_transp"
+        android:hint="@string/hint_project_or_customer_code"/>
+
+    <ImageButton
+        android:id="@+id/search"
+        android:layout_width="@dimen/button_size_l"
+        android:layout_height="@dimen/button_size_l"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_search"
+        android:padding="@dimen/icon_padding_xxl"
+        android:background="@drawable/selector_button_dark"/>
+
+</LinearLayout>

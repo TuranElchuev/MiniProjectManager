@@ -1,0 +1,81 @@
+<resources>
+
+    <string name="app_name">Projer</string>
+    
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    <string name="hint_project_or_customer_code">project or customer code</string>
+
+    <string name="name">name</string>
+    <string name="tel">tel</string>
+    <string name="email">e-mail</string>
+    <string name="fax">fax</string>
+    <string name="web">web</string>
+    <string name="address">address</string>
+    <string name="facebook">facebook</string>
+    <string name="skype">skype</string>
+    <string name="linkedin">linked in</string>
+    <string name="bank_details">bank details</string>
+    <string name="code">code</string>
+    <string name="comment">comment</string>
+    <string name="description">description</string>
+    <string name="amount">amount</string>
+    <string name="added">added</string>
+    <string name="balance">BALANCE</string>
+    <string name="total_time">total hours</string>
+    <string name="total_amount">payed amount</string>
+    <string name="discount">DISCOUNT</string>
+    <string name="discount_small">discount</string>
+    <string name="rate">hourly rate</string>
+    <string name="default_rate">default hourly rate</string>
+    <string name="deadline">deadline</string>
+    <string name="last_action">last action</string>
+    <string name="active">active</string>
+    <string name="removed">removed</string>
+    <string name="activate">activate</string>
+    <string name="deactivate">deactivate</string>
+    <string name="remove">remove</string>
+    <string name="duplicate">duplicate</string>
+    <string name="restore">restore</string>
+    <string name="store_in_db">store in database</string>
+    
+    <string name="save">SAVE</string>
+    <string name="start">START</string>
+    <string name="end">END</string>
+    <string name="discard">DISCARD</string>
+    <string name="edit">EDIT</string>
+    
+    <string name="duration">duration</string>
+    
+    
+    <string name="customers">Customers</string>
+    <string name="customer">Customer</string>
+    <string name="projects">Projects</string>    
+    <string name="project">Project</string>
+    <string name="sessions">Sessions</string>
+    <string name="session">Session</string>
+    <string name="payments">Payments</string>
+    <string name="payment">Payment</string>
+    <string name="new_customer">New customer</string>
+    <string name="new_project">New project</string>
+    <string name="new_session">New session</string>
+    <string name="new_payment">New payment</string>
+    
+    <string name="running_sessions">Running sessions</string>
+    <string name="recent_projects">Recent projects</string>
+    
+    <string name="invalid_code">INVALID CODE</string>
+    <string name="no_matches">NO MATCHES</string>
+    
+    <string name="confirm">CONFIRM</string>
+    
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    
+    <string name="accounting">accounting</string>
+    <string name="contacts">contacts</string>
+    
+    <string name="no_running_sessions">You have no running sessions</string>
+
+</resources>

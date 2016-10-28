@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\list_item_payment.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout-large\\list_item_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\list_item_running_session.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout-large\\list_item_running_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\list_item_project.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout-large\\list_item_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\list_item_session.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout-large\\list_item_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\list_item_customer.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout-large\\list_item_customer.xml"
+    }
+]

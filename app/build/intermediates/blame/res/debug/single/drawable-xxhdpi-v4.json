@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\projer.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxhdpi\\projer.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_circle_pressed.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxhdpi\\btn_circle_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_circle.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxhdpi\\btn_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\add.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxhdpi\\add.png"
+    }
+]

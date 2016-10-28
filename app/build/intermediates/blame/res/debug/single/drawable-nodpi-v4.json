@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_list_item_not_focused.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-nodpi\\selector_list_item_not_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\shadow_top.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-nodpi\\shadow_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_button_light.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-nodpi\\selector_button_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\shadow_left.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-nodpi\\shadow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\shadow_bottom.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-nodpi\\shadow_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_button_dark.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-nodpi\\selector_button_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_list_item_focused.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-nodpi\\selector_list_item_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_button_circular.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-nodpi\\selector_button_circular.xml"
+    }
+]

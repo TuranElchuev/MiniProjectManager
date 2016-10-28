@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal"
+	android:gravity="center_vertical"
+	android:background="@drawable/selector_list_item_not_focused"
+	android:padding="@dimen/margin_xs">
+
+	<ImageView
+		android:id="@+id/icon"
+		android:layout_width="@dimen/icon_m"
+		android:layout_height="@dimen/icon_m"
+		android:scaleType="centerInside"
+		android:padding="@dimen/icon_padding_l"
+		android:src="@drawable/ic_project"/>
+
+
+	<TextView
+		android:id="@+id/t_code"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/text_m"
+		android:textStyle="bold"
+		android:text="00000000"/>
+
+	<TextView
+		android:id="@+id/t_name"
+		android:layout_width="0dp"
+		android:layout_weight="1"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/text_m"
+		android:layout_marginLeft="@dimen/margin_m"
+		android:text="Project"
+		/>
+
+	<TextView
+		android:id="@+id/t_balance"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/text_m"
+		android:layout_marginLeft="@dimen/margin_m"
+		android:gravity="right"
+		android:text="0.00"/>
+
+</LinearLayout>

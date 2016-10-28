@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\start.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_money.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_money.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\phone.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\projer.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\projer.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_customer.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_customer.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_money_removed.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_money_removed.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\address.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\address.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\email.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\cancel.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_project_removed.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_project_removed.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_customer_removed.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_customer_removed.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\restore.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\restore.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_completed.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_completed.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_search.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\copy.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\copy.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_running.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_running.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\start_color.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\start_color.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\stop_color.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\stop_color.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_time_removed.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_time_removed.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\facebook.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\remove.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\remove.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ok.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ok.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_rate.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\skype.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\skype.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_project.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_project.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\stop.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\edit.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\web.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\web.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_time.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_removed.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_removed.png"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_home.png",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_home.png"
+    }
+]

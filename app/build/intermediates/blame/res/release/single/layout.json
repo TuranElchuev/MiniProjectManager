@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_project.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\list_item_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_session.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\list_item_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_customers.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_customers.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\action_panel.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\action_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_info_project.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_info_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_running_session.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\list_item_running_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_projects.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_projects.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_info_session.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_info_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_info_payment.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_info_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_running_sessions.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_running_sessions.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_customer.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\list_item_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_edit_project.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_edit_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_footer.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\list_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_current_sessions.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_current_sessions.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_payment.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\list_item_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_sessions.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_sessions.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_info_customer.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_info_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_edit_customer.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_edit_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_edit_session.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_edit_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_recent_projects.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_recent_projects.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_payments.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_payments.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_edit_payment.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\fragment_edit_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_confirm.xml",
+        "source": "C:\\Users\\TURAN\\StudioProjects\\MiniProjectManager\\app\\src\\main\\res\\layout\\dialog_confirm.xml"
+    }
+]

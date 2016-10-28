@@ -1,0 +1,76 @@
+<resources>
+
+    <dimen name="header_height_l">60dp</dimen>
+    <dimen name="header_height_m">50dp</dimen>
+    <dimen name="header_height_s">40dp</dimen>
+
+    <dimen name="button_size_m">40dp</dimen>
+    <dimen name="button_size_l">50dp</dimen>
+    <dimen name="button_size_xl">60dp</dimen>
+
+    <dimen name="button_padding_m">5dp</dimen>
+    <dimen name="button_padding_l">15dp</dimen>
+    <dimen name="button_padding_xl">20dp</dimen>
+
+    <dimen name="list_footer_height">90dp</dimen>
+    
+    <dimen name="icon_small">30dp</dimen>
+    <dimen name="icon_m">40dp</dimen>
+    <dimen name="icon_l">60dp</dimen>
+
+    <dimen name="icon_padding_xs">2dp</dimen>
+    <dimen name="icon_padding_s">4dp</dimen>
+    <dimen name="icon_padding_m">6dp</dimen>
+    <dimen name="icon_padding_l">8dp</dimen>
+    <dimen name="icon_padding_xl">10dp</dimen>
+    <dimen name="icon_padding_xxl">12dp</dimen>
+
+    <dimen name="text_l">20sp</dimen>
+    <dimen name="text_m">18sp</dimen>
+    <dimen name="text_s">16sp</dimen>
+
+    <dimen name="header_line_height">1dp</dimen>
+
+    <dimen name="field_height_xs">30dp</dimen>
+    <dimen name="field_height_s">40dp</dimen>
+    <dimen name="field_height_m">50dp</dimen>
+    <dimen name="field_height_l">60dp</dimen>
+    <dimen name="field_height_xl">70dp</dimen>
+    <dimen name="field_height_xxl">80dp</dimen>
+    <dimen name="field_height_xxxl">90dp</dimen>
+    <dimen name="field_height_xxxxl">100dp</dimen>
+
+    <dimen name="margin_xxs">4dp</dimen>
+    <dimen name="margin_xs">6dp</dimen>
+    <dimen name="margin_s">8dp</dimen>
+    <dimen name="margin_m">10dp</dimen>
+    <dimen name="margin_l">12dp</dimen>
+    <dimen name="margin_xl">14dp</dimen>
+    <dimen name="margin_xxl">16dp</dimen>
+    <dimen name="margin_xxxl">18dp</dimen>
+    <dimen name="margin_xxxxl">20dp</dimen>
+
+
+    <dimen name="landscape_top_padding">0dp</dimen>
+    <dimen name="landscape_bottom_padding">0dp</dimen>
+    <dimen name="landscape_left_padding">10dp</dimen>
+    <dimen name="landscape_right_padding">10dp</dimen>
+
+    <dimen name="portrait_top_padding">0dp</dimen>
+    <dimen name="portrait_bottom_padding">0dp</dimen>
+    <dimen name="portrait_left_padding">6dp</dimen>
+    <dimen name="portrait_right_padding">6dp</dimen>
+
+
+
+    <dimen name="shadow_width_xl">12dp</dimen>
+    <dimen name="shadow_width_l">8dp</dimen>
+    <dimen name="shadow_width_m">4dp</dimen>
+    <dimen name="shadow_width_s">2dp</dimen>
+
+</resources>
+
+
+
+
+

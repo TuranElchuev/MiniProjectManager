@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="landscape_bottom_padding">0dp</dimen>
+    <dimen name="landscape_left_padding">30dp</dimen>
+    <dimen name="landscape_right_padding">30dp</dimen>
+    <dimen name="landscape_top_padding">20dp</dimen>
+    <dimen name="portrait_bottom_padding">0dp</dimen>
+    <dimen name="portrait_left_padding">60dp</dimen>
+    <dimen name="portrait_right_padding">60dp</dimen>
+    <dimen name="portrait_top_padding">30dp</dimen>
+</resources>

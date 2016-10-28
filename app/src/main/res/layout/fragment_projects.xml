@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+	<LinearLayout
+		android:id="@+id/header"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_vertical"
+			android:orientation="horizontal"
+			android:background="@drawable/selector_button_light"
+			android:paddingTop="@dimen/margin_xs"
+			android:paddingBottom="@dimen/margin_xs">
+
+			<ImageView
+				android:id="@+id/icon_customer"
+				android:layout_width="@dimen/icon_m"
+				android:layout_height="@dimen/icon_m"
+				android:scaleType="centerInside"
+				android:padding="@dimen/margin_xs"
+				android:src="@drawable/ic_customer"/>
+
+
+			<TextView
+			   android:id="@+id/t_customer_code"
+			   android:layout_width="wrap_content"
+			   android:layout_height="wrap_content"
+			   android:textSize="@dimen/text_m"
+				android:layout_marginLeft="@dimen/margin_m"
+			   android:textStyle="bold"/>
+
+			<TextView
+				android:id="@+id/t_customer_name"
+				android:layout_width="0dp"
+				android:layout_weight="1"
+				android:layout_height="wrap_content"
+				android:lines="1"
+				android:layout_marginLeft="@dimen/margin_m"
+				android:textSize="@dimen/text_m"/>
+
+			<TextView
+				android:id="@+id/t_customer_balance"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textStyle="bold"
+				android:layout_marginLeft="@dimen/margin_m"
+				android:textSize="@dimen/text_m"/>
+
+		</LinearLayout>
+
+		<View
+			android:layout_width="match_parent"
+			android:layout_height="1dp"
+			android:background="@color/app_second_color"/>
+
+		<TextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:textSize="@dimen/text_m"
+			android:textStyle="bold"
+			android:gravity="center"
+			android:layout_marginTop="@dimen/margin_xs"
+			android:layout_marginBottom="@dimen/margin_xs"
+			android:text="@string/projects"/>
+
+	</LinearLayout>
+
+
+	<ListView
+		android:id="@+id/list"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@+id/header"
+		android:footerDividersEnabled="false">
+
+	</ListView>
+
+	<ImageButton
+		android:id="@+id/add"
+		android:layout_width="@dimen/button_size_xl"
+		android:layout_height="@dimen/button_size_xl"
+		android:layout_alignParentBottom="true"
+		android:background="@drawable/selector_button_circular"
+		android:src="@drawable/add"
+		android:scaleType="centerInside"
+		android:padding="@dimen/button_padding_l"
+		android:layout_margin="@dimen/button_padding_l"/>
+    
+</RelativeLayout>

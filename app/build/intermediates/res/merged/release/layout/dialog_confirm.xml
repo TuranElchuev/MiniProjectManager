@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:gravity="center_horizontal">
+
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_m"
+        android:text="@string/confirm"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/margin_m"/>
+
+    <TextView 
+        android:id="@+id/t_action"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_m"
+        android:layout_marginTop="@dimen/margin_m"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium"/>
+    
+    <TextView 
+        android:id="@+id/t_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginTop="@dimen/margin_m"
+        android:visibility="gone"/>
+    
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="@dimen/margin_m"
+        android:background="@color/app_main_color"/>
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        
+        <Button 
+            android:id="@+id/ok"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+        	android:textStyle="bold"
+            android:text="@string/ok"
+            android:textColor="@color/text_light"
+        	android:background="@drawable/selector_button_dark"/>
+
+        <Button 
+            android:id="@+id/cancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/cancel"
+        	android:textStyle="bold"
+            android:textColor="@color/text_light"
+        	android:background="@drawable/selector_button_dark"/>
+        
+        
+    </LinearLayout>
+        
+</LinearLayout>

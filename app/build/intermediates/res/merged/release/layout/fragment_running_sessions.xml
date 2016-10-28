@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        
+        <ImageView 
+            android:layout_width="@dimen/icon_m"
+            android:layout_height="@dimen/icon_m"
+            android:scaleType="centerInside"
+            android:padding="@dimen/margin_xs"
+            android:src="@drawable/ic_running"/>
+        
+         <TextView 
+	       android:id="@+id/t_code"
+	       android:layout_width="wrap_content"
+	       android:layout_height="wrap_content"
+		   android:textSize="@dimen/text_m"
+	        android:layout_marginLeft="@dimen/margin_m"
+		   android:textStyle="bold"
+		   android:text="@string/running_sessions"/>
+        
+    </LinearLayout>
+    
+    <TextView 
+        android:id="@+id/t_no_running_sessions"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:textSize="@dimen/text_m"
+        android:text="@string/no_running_sessions"
+        android:gravity="center"
+        android:alpha="0.7"/>
+    
+    <ListView 
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+		android:divider="@color/transparent"
+		android:layout_marginTop="@dimen/margin_m"></ListView>
+    
+</LinearLayout>
